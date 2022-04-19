@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search has a valid snapshot 1`] = `
+<div>
+  <div
+    className="search"
+  >
+    <div
+      className="search-title"
+    >
+      Search Title
+    </div>
+    <form
+      onSubmit={[Function]}
+    >
+      <div
+        className="search-wrap"
+      >
+        <input
+          className="search-input"
+          onChange={[Function]}
+          placeholder="Search the title"
+          value="redux"
+        />
+        <button
+          className="btn btn-submit"
+          type="submit"
+        >
+          Submit
+        </button>
+      </div>
+    </form>
+  </div>
+  <div
+    className="list-item"
+  />
+  <div
+    className="pagination"
+  >
+    <div
+      className="pagination__current"
+    >
+      Total Titles: 
+      0
+    </div>
+    <button
+      className="btn"
+      onClick={[Function]}
+      type="button"
+    >
+      More Topic
+    </button>
+  </div>
+</div>
+`;
