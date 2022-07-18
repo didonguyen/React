@@ -78,7 +78,7 @@ class List extends Component {
         return (
             <div>
                 <div className='search'>
-                    <div className='search-title'>Search Title</div>
+                    <div className='search-title'>Search Title New</div>
                     <Search 
                         placeHolder='Search the title' 
                         className='search-input' 
